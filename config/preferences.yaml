@@ -1,0 +1,45 @@
+# ╔══════════════════════════════════════════════════════════════════════╗
+# ║  La Polla del Miedo — YOUR CONTROL PANEL  (v1 human interface)         ║
+# ╚══════════════════════════════════════════════════════════════════════╝
+# Edit this file and commit/push. GitHub Actions reads it on every run.
+# An override here ALWAYS beats the model's pick.
+# The daily report tells you which matches to review here before they lock.
+
+strategy:
+  # safe | balanced | adaptive | aggressive
+  #   safe       = maximize expected points (lots of 1-0, 2-1, 1-1)
+  #   balanced   = mostly EV, some variance for differentiation
+  #   adaptive   = safe while leading/early, riskier if you fall behind  (recommended)
+  #   aggressive = deliberately contrarian/high-variance to chase finishing #1
+  mode: adaptive
+  # When adaptive AND behind in the pool, how hard to chase variance. 0 = never, 1 = max.
+  comeback_aggression: 0.6
+  # Realism knob. 0 = pure expected-points -> every competitive game becomes a
+  # clean sheet (1-0/2-0). Raise it to allow natural scorelines: among picks
+  # within this fraction of the best EV, prefer one where both teams score.
+  # ~0.10 surfaces 2-1/1-1 in close games while leaving blowouts as clean sheets.
+  realism: 0.10
+
+# Teams whose *interesting* matches get flagged in the daily report for your review.
+# (Routine blowouts vs minnows are NOT flagged — only competitive/marquee fixtures.)
+interesting_teams:
+  - France
+  - Uruguay
+  - England
+  - Portugal
+  - Germany
+  - Spain
+
+# ── Pin exact scorelines for specific matches. Submit job uses these verbatim. ──
+# Identify a match by team names (as scheduled) OR by toqui match_id once known.
+# 'score' is "home-away" (home team first, as listed in Toqui). 'note' is for you.
+overrides:
+  # - match: "Spain vs Uruguay"
+  #   score: "2-1"
+  #   note: "Spain midfield should dominate"
+  # - match_id: "abc123"
+  #   score: "0-0"
+
+# ── Matches to NOT auto-submit (you'll enter these by hand in the app). ──
+skip:
+  # - "France vs England"

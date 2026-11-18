@@ -1,0 +1,399 @@
+tournament: FIFA World Cup 2026
+source: en.wikipedia.org (MediaWiki action API)
+groups:
+  A:
+    teams:
+    - Czech Republic
+    - Mexico
+    - South Africa
+    - South Korea
+    matches:
+    - &id001
+      home: Mexico
+      away: South Africa
+      date: '2026-06-11'
+      kickoff: 1:00 p.m. UTC−06:00
+    - home: South Korea
+      away: Czech Republic
+      date: '2026-06-11'
+      kickoff: 8:00 p.m. UTC−06:00
+    - home: Czech Republic
+      away: South Africa
+      date: '2026-06-18'
+      kickoff: 12:00 p.m. UTC−04:00
+    - home: Mexico
+      away: South Korea
+      date: '2026-06-18'
+      kickoff: 7:00 p.m. UTC−06:00
+    - home: Czech Republic
+      away: Mexico
+      date: '2026-06-24'
+      kickoff: 7:00 p.m. UTC−06:00
+    - home: South Africa
+      away: South Korea
+      date: '2026-06-24'
+      kickoff: 7:00 p.m. UTC−06:00
+    first_match: *id001
+  B:
+    teams:
+    - Bosnia and Herzegovina
+    - Canada
+    - Qatar
+    - Switzerland
+    matches:
+    - &id002
+      home: Canada
+      away: Bosnia and Herzegovina
+      date: '2026-06-12'
+      kickoff: 3:00 p.m. UTC−04:00
+    - home: Qatar
+      away: Switzerland
+      date: '2026-06-13'
+      kickoff: 12:00 p.m. UTC−07:00
+    - home: Switzerland
+      away: Bosnia and Herzegovina
+      date: '2026-06-18'
+      kickoff: 12:00 p.m. UTC−07:00
+    - home: Canada
+      away: Qatar
+      date: '2026-06-18'
+      kickoff: 3:00 p.m. UTC−07:00
+    - home: Switzerland
+      away: Canada
+      date: '2026-06-24'
+      kickoff: 12:00 p.m. UTC−07:00
+    - home: Bosnia and Herzegovina
+      away: Qatar
+      date: '2026-06-24'
+      kickoff: 12:00 p.m. UTC−07:00
+    first_match: *id002
+  C:
+    teams:
+    - Brazil
+    - Haiti
+    - Morocco
+    - Scotland
+    matches:
+    - &id003
+      home: Brazil
+      away: Morocco
+      date: '2026-06-13'
+      kickoff: 6:00 p.m. <includeonly>UTC−04:00
+    - home: Haiti
+      away: Scotland
+      date: '2026-06-13'
+      kickoff: 9:00 p.m. <includeonly>UTC−04:00
+    - home: Scotland
+      away: Morocco
+      date: '2026-06-19'
+      kickoff: 6:00 p.m. <includeonly>UTC−04:00
+    - home: Brazil
+      away: Haiti
+      date: '2026-06-19'
+      kickoff: 8:30 p.m. <includeonly>UTC−04:00
+    - home: Scotland
+      away: Brazil
+      date: '2026-06-24'
+      kickoff: 6:00 p.m. <includeonly>UTC−04:00
+    - home: Morocco
+      away: Haiti
+      date: '2026-06-24'
+      kickoff: 6:00 p.m. <includeonly>UTC−04:00
+    first_match: *id003
+  D:
+    teams:
+    - Australia
+    - Paraguay
+    - Turkey
+    - United States
+    matches:
+    - &id004
+      home: United States
+      away: Paraguay
+      date: '2026-06-12'
+      kickoff: 6:00 p.m. <includeonly>UTC−07:00
+    - home: Australia
+      away: Turkey
+      date: '2026-06-13'
+      kickoff: 9:00 p.m. <includeonly>UTC−07:00
+    - home: United States
+      away: Australia
+      date: '2026-06-19'
+      kickoff: 12:00 p.m. <includeonly>UTC−07:00
+    - home: Turkey
+      away: Paraguay
+      date: '2026-06-19'
+      kickoff: 8:00 p.m. <includeonly>UTC−07:00
+    - home: Turkey
+      away: United States
+      date: '2026-06-25'
+      kickoff: 7:00 p.m. <includeonly>UTC−07:00
+    - home: Paraguay
+      away: Australia
+      date: '2026-06-25'
+      kickoff: 7:00 p.m. <includeonly>UTC−07:00
+    first_match: *id004
+  E:
+    teams:
+    - Curaçao
+    - Ecuador
+    - Germany
+    - Ivory Coast
+    matches:
+    - &id005
+      home: Germany
+      away: Curaçao
+      date: '2026-06-14'
+      kickoff: 12:00 p.m. UTC−05:00
+    - home: Ivory Coast
+      away: Ecuador
+      date: '2026-06-14'
+      kickoff: 7:00 p.m. UTC−04:00
+    - home: Germany
+      away: Ivory Coast
+      date: '2026-06-20'
+      kickoff: 4:00 p.m. UTC−04:00
+    - home: Ecuador
+      away: Curaçao
+      date: '2026-06-20'
+      kickoff: 7:00 p.m. UTC−05:00
+    - home: Curaçao
+      away: Ivory Coast
+      date: '2026-06-25'
+      kickoff: 4:00 p.m. UTC−04:00
+    - home: Ecuador
+      away: Germany
+      date: '2026-06-25'
+      kickoff: 4:00 p.m. UTC−04:00
+    first_match: *id005
+  F:
+    teams:
+    - Japan
+    - Netherlands
+    - Sweden
+    - Tunisia
+    matches:
+    - &id006
+      home: Netherlands
+      away: Japan
+      date: '2026-06-14'
+      kickoff: 3:00 p.m. UTC−05:00
+    - home: Sweden
+      away: Tunisia
+      date: '2026-06-14'
+      kickoff: 8:00 p.m. UTC−06:00
+    - home: Netherlands
+      away: Sweden
+      date: '2026-06-20'
+      kickoff: 12:00 p.m. UTC−05:00
+    - home: Tunisia
+      away: Japan
+      date: '2026-06-20'
+      kickoff: 10:00 p.m. UTC−06:00
+    - home: Japan
+      away: Sweden
+      date: '2026-06-25'
+      kickoff: 6:00 p.m. UTC−05:00
+    - home: Tunisia
+      away: Netherlands
+      date: '2026-06-25'
+      kickoff: 6:00 p.m. UTC−05:00
+    first_match: *id006
+  G:
+    teams:
+    - Belgium
+    - Egypt
+    - Iran
+    - New Zealand
+    matches:
+    - &id007
+      home: Belgium
+      away: Egypt
+      date: '2026-06-15'
+      kickoff: 12:00 p.m. <includeonly>UTC−07:00
+    - home: Iran
+      away: New Zealand
+      date: '2026-06-15'
+      kickoff: 6:00 p.m. <includeonly>UTC−07:00
+    - home: Belgium
+      away: Iran
+      date: '2026-06-21'
+      kickoff: 12:00 p.m. <includeonly>UTC−07:00
+    - home: New Zealand
+      away: Egypt
+      date: '2026-06-21'
+      kickoff: 6:00 p.m. <includeonly>UTC−07:00
+    - home: Egypt
+      away: Iran
+      date: '2026-06-26'
+      kickoff: 8:00 p.m. <includeonly>UTC−07:00
+    - home: New Zealand
+      away: Belgium
+      date: '2026-06-26'
+      kickoff: 8:00 p.m. <includeonly>UTC−07:00
+    first_match: *id007
+  H:
+    teams:
+    - Cape Verde
+    - Saudi Arabia
+    - Spain
+    - Uruguay
+    matches:
+    - &id008
+      home: Spain
+      away: Cape Verde
+      date: '2026-06-15'
+      kickoff: 12:00 p.m. UTC−04:00
+    - home: Saudi Arabia
+      away: Uruguay
+      date: '2026-06-15'
+      kickoff: 6:00 p.m. UTC−04:00
+    - home: Spain
+      away: Saudi Arabia
+      date: '2026-06-21'
+      kickoff: 12:00 p.m. UTC−04:00
+    - home: Uruguay
+      away: Cape Verde
+      date: '2026-06-21'
+      kickoff: 6:00 p.m. UTC−04:00
+    - home: Cape Verde
+      away: Saudi Arabia
+      date: '2026-06-26'
+      kickoff: 7:00 p.m. UTC−05:00
+    - home: Uruguay
+      away: Spain
+      date: '2026-06-26'
+      kickoff: 6:00 p.m. UTC−06:00
+    first_match: *id008
+  I:
+    teams:
+    - France
+    - Iraq
+    - Norway
+    - Senegal
+    matches:
+    - &id009
+      home: France
+      away: Senegal
+      date: '2026-06-16'
+      kickoff: 3:00 p.m. <includeonly>UTC−04:00
+    - home: Iraq
+      away: Norway
+      date: '2026-06-16'
+      kickoff: 6:00 p.m. <includeonly>UTC−04:00
+    - home: France
+      away: Iraq
+      date: '2026-06-22'
+      kickoff: 5:00 p.m. <includeonly>UTC−04:00
+    - home: Norway
+      away: Senegal
+      date: '2026-06-22'
+      kickoff: 8:00 p.m. <includeonly>UTC−04:00
+    - home: Norway
+      away: France
+      date: '2026-06-26'
+      kickoff: 3:00 p.m. <includeonly>UTC−04:00
+    - home: Senegal
+      away: Iraq
+      date: '2026-06-26'
+      kickoff: 3:00 p.m. <includeonly>UTC−04:00
+    first_match: *id009
+  J:
+    teams:
+    - Algeria
+    - Argentina
+    - Austria
+    - Jordan
+    matches:
+    - &id010
+      home: Argentina
+      away: Algeria
+      date: '2026-06-16'
+      kickoff: 8:00 p.m. UTC−05:00
+    - home: Austria
+      away: Jordan
+      date: '2026-06-16'
+      kickoff: 9:00 p.m. UTC−07:00
+    - home: Argentina
+      away: Austria
+      date: '2026-06-22'
+      kickoff: 12:00 p.m. UTC−05:00
+    - home: Jordan
+      away: Algeria
+      date: '2026-06-22'
+      kickoff: 8:00 p.m. UTC−07:00
+    - home: Algeria
+      away: Austria
+      date: '2026-06-27'
+      kickoff: 9:00 p.m. UTC−05:00
+    - home: Jordan
+      away: Argentina
+      date: '2026-06-27'
+      kickoff: 9:00 p.m. UTC−05:00
+    first_match: *id010
+  K:
+    teams:
+    - Colombia
+    - DR Congo
+    - Portugal
+    - Uzbekistan
+    matches:
+    - &id011
+      home: Portugal
+      away: DR Congo
+      date: '2026-06-17'
+      kickoff: 12:00 p.m. UTC−05:00
+    - home: Uzbekistan
+      away: Colombia
+      date: '2026-06-17'
+      kickoff: 8:00 p.m. UTC−06:00
+    - home: Portugal
+      away: Uzbekistan
+      date: '2026-06-23'
+      kickoff: 12:00 p.m. UTC−05:00
+    - home: Colombia
+      away: DR Congo
+      date: '2026-06-23'
+      kickoff: 8:00 p.m. UTC−06:00
+    - home: Colombia
+      away: Portugal
+      date: '2026-06-27'
+      kickoff: 7:30 p.m. UTC−04:00
+    - home: DR Congo
+      away: Uzbekistan
+      date: '2026-06-27'
+      kickoff: 7:30 p.m. UTC−04:00
+    first_match: *id011
+  L:
+    teams:
+    - Croatia
+    - England
+    - Ghana
+    - Panama
+    matches:
+    - &id012
+      home: England
+      away: Croatia
+      date: '2026-06-17'
+      kickoff: 3:00 p.m. UTC−05:00
+    - home: Ghana
+      away: Panama
+      date: '2026-06-17'
+      kickoff: 7:00 p.m. UTC−04:00
+    - home: England
+      away: Ghana
+      date: '2026-06-23'
+      kickoff: 4:00 p.m. UTC−04:00
+    - home: Panama
+      away: Croatia
+      date: '2026-06-23'
+      kickoff: 7:00 p.m. UTC−04:00
+    - home: Panama
+      away: England
+      date: '2026-06-27'
+      kickoff: 5:00 p.m. UTC−04:00
+    - home: Croatia
+      away: Ghana
+      date: '2026-06-27'
+      kickoff: 5:00 p.m. UTC−04:00
+    first_match: *id012

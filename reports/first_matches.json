@@ -1,0 +1,482 @@
+[
+  {
+    "fixture": {
+      "group": "A",
+      "home": "Mexico",
+      "away": "South Africa",
+      "date": "2026-06-11",
+      "kickoff": "1:00 p.m. UTC−06:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Mexico (Δ=+419)",
+    "most_likely": "2-0",
+    "p_home": 0.8597,
+    "p_draw": 0.116,
+    "p_away": 0.0243,
+    "expected_goals_home": 2.38,
+    "expected_goals_away": 0.22,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.2106
+      },
+      {
+        "score": "1-0",
+        "prob": 0.178
+      },
+      {
+        "score": "3-0",
+        "prob": 0.1672
+      },
+      {
+        "score": "4-0",
+        "prob": 0.0995
+      },
+      {
+        "score": "0-0",
+        "prob": 0.0731
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "B",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "date": "2026-06-12",
+      "kickoff": "3:00 p.m. UTC−04:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Canada (Δ=+272)",
+    "most_likely": "2-0",
+    "p_home": 0.7393,
+    "p_draw": 0.1759,
+    "p_away": 0.0849,
+    "expected_goals_home": 2.07,
+    "expected_goals_away": 0.53,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.1594
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1563
+      },
+      {
+        "score": "3-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0842
+      },
+      {
+        "score": "1-1",
+        "prob": 0.0789
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "C",
+      "home": "Brazil",
+      "away": "Morocco",
+      "date": "2026-06-13",
+      "kickoff": "6:00 p.m. <includeonly>UTC−04:00"
+    },
+    "pick": "1-0",
+    "pick_reason": "safe pick vs Elo edge to Brazil (Δ=+164)",
+    "most_likely": "1-0",
+    "p_home": 0.6091,
+    "p_draw": 0.2216,
+    "p_away": 0.1693,
+    "expected_goals_home": 1.79,
+    "expected_goals_away": 0.81,
+    "top_scorelines": [
+      {
+        "score": "1-0",
+        "prob": 0.1361
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1188
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1045
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0964
+      },
+      {
+        "score": "0-0",
+        "prob": 0.071
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "D",
+      "home": "United States",
+      "away": "Paraguay",
+      "date": "2026-06-12",
+      "kickoff": "6:00 p.m. <includeonly>UTC−07:00"
+    },
+    "pick": "0-1",
+    "pick_reason": "safe pick vs Elo edge to Paraguay (Δ=-29)",
+    "most_likely": "1-1",
+    "p_home": 0.3308,
+    "p_draw": 0.2552,
+    "p_away": 0.4141,
+    "expected_goals_home": 1.21,
+    "expected_goals_away": 1.39,
+    "top_scorelines": [
+      {
+        "score": "1-1",
+        "prob": 0.1212
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1069
+      },
+      {
+        "score": "1-0",
+        "prob": 0.0937
+      },
+      {
+        "score": "1-2",
+        "prob": 0.0868
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0756
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "E",
+      "home": "Germany",
+      "away": "Curaçao",
+      "date": "2026-06-14",
+      "kickoff": "12:00 p.m. UTC−05:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Germany (Δ=+492)",
+    "most_likely": "2-0",
+    "p_home": 0.898,
+    "p_draw": 0.0927,
+    "p_away": 0.0093,
+    "expected_goals_home": 2.5,
+    "expected_goals_away": 0.1,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.2323
+      },
+      {
+        "score": "3-0",
+        "prob": 0.1937
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1863
+      },
+      {
+        "score": "4-0",
+        "prob": 0.1211
+      },
+      {
+        "score": "0-0",
+        "prob": 0.0737
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Japan",
+      "date": "2026-06-14",
+      "kickoff": "3:00 p.m. UTC−05:00"
+    },
+    "pick": "1-0",
+    "pick_reason": "safe pick vs Elo edge to Netherlands (Δ=+38)",
+    "most_likely": "1-1",
+    "p_home": 0.4273,
+    "p_draw": 0.2543,
+    "p_away": 0.3184,
+    "expected_goals_home": 1.42,
+    "expected_goals_away": 1.18,
+    "top_scorelines": [
+      {
+        "score": "1-1",
+        "prob": 0.1208
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1089
+      },
+      {
+        "score": "0-1",
+        "prob": 0.0916
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0882
+      },
+      {
+        "score": "2-0",
+        "prob": 0.0745
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "G",
+      "home": "Belgium",
+      "away": "Egypt",
+      "date": "2026-06-15",
+      "kickoff": "12:00 p.m. <includeonly>UTC−07:00"
+    },
+    "pick": "1-0",
+    "pick_reason": "safe pick vs Elo edge to Belgium (Δ=+189)",
+    "most_likely": "1-0",
+    "p_home": 0.6421,
+    "p_draw": 0.2117,
+    "p_away": 0.1461,
+    "expected_goals_home": 1.86,
+    "expected_goals_away": 0.74,
+    "top_scorelines": [
+      {
+        "score": "1-0",
+        "prob": 0.1411
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1282
+      },
+      {
+        "score": "1-1",
+        "prob": 0.0993
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0951
+      },
+      {
+        "score": "3-0",
+        "prob": 0.0794
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "H",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "date": "2026-06-15",
+      "kickoff": "12:00 p.m. UTC−04:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Spain (Δ=+589)",
+    "most_likely": "2-0",
+    "p_home": 0.9122,
+    "p_draw": 0.0835,
+    "p_away": 0.0043,
+    "expected_goals_home": 2.55,
+    "expected_goals_away": 0.05,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.2415
+      },
+      {
+        "score": "3-0",
+        "prob": 0.2053
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1897
+      },
+      {
+        "score": "4-0",
+        "prob": 0.1309
+      },
+      {
+        "score": "0-0",
+        "prob": 0.074
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "I",
+      "home": "France",
+      "away": "Senegal",
+      "date": "2026-06-16",
+      "kickoff": "3:00 p.m. <includeonly>UTC−04:00"
+    },
+    "pick": "1-0",
+    "pick_reason": "safe pick vs Elo edge to France (Δ=+214)",
+    "most_likely": "1-0",
+    "p_home": 0.6735,
+    "p_draw": 0.2013,
+    "p_away": 0.1252,
+    "expected_goals_home": 1.92,
+    "expected_goals_away": 0.68,
+    "top_scorelines": [
+      {
+        "score": "1-0",
+        "prob": 0.1459
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1376
+      },
+      {
+        "score": "1-1",
+        "prob": 0.0936
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0929
+      },
+      {
+        "score": "3-0",
+        "prob": 0.0883
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "J",
+      "home": "Argentina",
+      "away": "Algeria",
+      "date": "2026-06-16",
+      "kickoff": "8:00 p.m. UTC−05:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Argentina (Δ=+353)",
+    "most_likely": "2-0",
+    "p_home": 0.8136,
+    "p_draw": 0.1411,
+    "p_away": 0.0453,
+    "expected_goals_home": 2.25,
+    "expected_goals_away": 0.35,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.1886
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1691
+      },
+      {
+        "score": "3-0",
+        "prob": 0.1417
+      },
+      {
+        "score": "4-0",
+        "prob": 0.0798
+      },
+      {
+        "score": "0-0",
+        "prob": 0.0725
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "K",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "date": "2026-06-17",
+      "kickoff": "12:00 p.m. UTC−05:00"
+    },
+    "pick": "2-0",
+    "pick_reason": "safe pick vs Elo edge to Portugal (Δ=+323)",
+    "most_likely": "2-0",
+    "p_home": 0.7884,
+    "p_draw": 0.1536,
+    "p_away": 0.058,
+    "expected_goals_home": 2.19,
+    "expected_goals_away": 0.41,
+    "top_scorelines": [
+      {
+        "score": "2-0",
+        "prob": 0.178
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1646
+      },
+      {
+        "score": "3-0",
+        "prob": 0.1299
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0731
+      },
+      {
+        "score": "0-0",
+        "prob": 0.0723
+      }
+    ],
+    "overridden": false
+  },
+  {
+    "fixture": {
+      "group": "L",
+      "home": "England",
+      "away": "Croatia",
+      "date": "2026-06-17",
+      "kickoff": "3:00 p.m. UTC−05:00"
+    },
+    "pick": "1-0",
+    "pick_reason": "safe pick vs Elo edge to England (Δ=+112)",
+    "most_likely": "1-0",
+    "p_home": 0.5362,
+    "p_draw": 0.2392,
+    "p_away": 0.2246,
+    "expected_goals_home": 1.64,
+    "expected_goals_away": 0.96,
+    "top_scorelines": [
+      {
+        "score": "1-0",
+        "prob": 0.1253
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1135
+      },
+      {
+        "score": "2-0",
+        "prob": 0.0998
+      },
+      {
+        "score": "2-1",
+        "prob": 0.0959
+      },
+      {
+        "score": "0-1",
+        "prob": 0.0749
+      }
+    ],
+    "overridden": false
+  }
+]

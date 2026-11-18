@@ -1,0 +1,12 @@
+# Provider plugins / modules cache — re-fetched by `terraform init`.
+.terraform/
+
+# State and its backups: may contain secrets and resource IDs. With a local
+# backend this lives on disk; never commit it.
+*.tfstate*
+
+# Saved plan binaries.
+tfplan
+
+# NOTE: .terraform.lock.hcl is intentionally NOT ignored. It pins the exact
+# provider versions/hashes so every machine resolves the same plugins. Commit it.

@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Playwright
+.cache/
+playwright-report/
+
+# Local caches (machine-derived raw API/wiki responses)
+data_cache/
+
+# Local DynamoDB dumps
+backups/
+
+# Raw captures from the pool site (never commit)
+data/pool/_recon/
+data/pool/_samples/
+data/pool/storage.json
+
+# OS
+.DS_Store
